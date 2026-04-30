@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155438022368",
+    "project_id": "sheba-finder",
+    "storage_bucket": "sheba-finder.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155438022368:android:3bf555c34505ea7b435a85",
+        "android_client_info": {
+          "package_name": "com.example.shebafinderbdnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXkyFHVSSS6Pf3NceVWThXmSSxzfdxdFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
